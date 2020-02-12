@@ -1,0 +1,2 @@
+# Optik-Okuyucu
+Python
